@@ -1,0 +1,14 @@
+{
+  "name": "banking-system-desktop",
+  "version": "0.0.1",
+  "description": "banking system desktop application",
+  "main": "main.js",
+  "author": "Amey Kode",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^18.0.3"
+  }
+}
