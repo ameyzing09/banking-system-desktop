@@ -6,7 +6,7 @@ const createWindow = () => {
       height: 1080
     })
   
-    win.loadURL('http://localhost:3000/accountOpening')
+    win.loadURL('http://localhost:3000/')
   }
 
   app.whenReady().then(() => {
